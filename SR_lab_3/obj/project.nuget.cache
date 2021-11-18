@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "euvrHWUY2S86Cp+5wfFkJfQO3ME1RNW9CDnMcf6azSvfCQop5KAkzcucZ3Jnbl245yVVRjqIMhFCJzr7OSbWzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Psheno\\source\\repos\\SR_lab_3\\SR_lab_3\\SR_lab_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Psheno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
